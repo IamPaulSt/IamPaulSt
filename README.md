@@ -1,6 +1,3 @@
-<img src="assets/Banner.gif" alt="banner" />
-
-
 ## Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&color=A855F7&width=600&lines=I+am+Developer;I+am+Problem+Solver;I+am+Scout;I+am+Dreamer;I+am+Paul&cursor=true)](https://github.com/IamPaulSt)
 
