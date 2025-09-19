@@ -1,5 +1,6 @@
 ![Snake dark animation](https://github.com/IamPaulSt/IamPaulST/blob/output/github-contribution-grid-snake-dark.svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=I+am+Developer;I+am+Problem+Solver;I+am+Scout;I+am+Dreamer;I+am+Paul)](https://github.com/IamPaulSt)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&speed=80&pause=500&color=A855F7&center=true&vCenter=true&width=600&lines=I+am+Developer;I+am+Problem+Solver;I+am+Scout;I+am+Dreamer;I+am+Paul&cursor=true)](https://github.com/IamPaulSt)
+
 
 ## Hi there 👋
 
