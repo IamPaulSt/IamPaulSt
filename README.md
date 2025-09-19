@@ -1,4 +1,7 @@
+![Snake dark animation](https://github.com/IamPaulSt/IamPaulST/blob/output/github-contribution-grid-snake-dark.svg)
+
 ## Hi there 👋
+
 
 <!--
 **IamPaulSt/IamPaulSt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
